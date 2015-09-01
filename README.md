@@ -9,5 +9,9 @@ You will need to install python-cwiid:
 
     sudo apt-get install python-cwiid
 
+You will also need the Unicorn HAT python library:
+
+    sudo pip install unicornhat
+
 ##Usage:
 Just run dodge.py. It is then simple.
